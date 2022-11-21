@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 2110,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Jake Peterson",
+            "title": "Your Gmail Account Has Unlimited Addresses",
+            "description": "One Gmail, one address. That seems right. After all, you have one phone number, and one home address. The same should be true for your email addresses, Gmail included. As it happens, though, your Gmail account has an unlimited number of addresses you can use …",
+            "url": "https://lifehacker.com/your-gmail-account-has-unlimited-addresses-1849809691",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb6379b4849ccb20a4cdc3a96df9096d.jpg",
+            "publishedAt": "2022-11-21T22:00:00Z",
+            "content": "One Gmail, one address. That seems right. After all, you have one phone number, and one home address. The same should be true for your email addresses, Gmail included. As it happens, though, your Gma… [+2932 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lorenzo Franceschi-Bicchierai",
+            "title": "A Leak Details Apple's Secret Dirt on Corellium, a Trusted Security Startup",
+            "description": "A 500-page document reviewed by WIRED shows that Corellium engaged with several controversial companies, including spyware maker NSO Group.",
+            "url": "https://www.wired.com/story/corellium-nso-group-darkmatter-apple-lawsuit/",
+            "urlToImage": "https://media.wired.com/photos/636ec58e8cea9c3346925ff5/191:100/w_1280,c_limit/security-apple-corellium-1176128997.jpg",
+            "publishedAt": "2022-11-21T12:00:00Z",
+            "content": "Zach Edwards, an independent privacy and security researcher, says that sensitive technology cannot be haphazardly sold to any company, in any country in the world.\r\nWhile Corellium is a reverse-engi… [+3870 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Medea Giordano, Julian Chokkattu",
+            "title": "56 Early Target Black Friday Deals (2022): Video Games, Headphones, and Dyson Vacuums",
+            "description": "The retailer has a price match guarantee for anything bought until December 24, so get ahead of your holiday shopping list without worry.",
+            "url": "https://www.wired.com/story/early-target-black-friday-deals-2022/",
+            "urlToImage": "https://media.wired.com/photos/627bfd36a4fb038463303e27/191:100/w_1280,c_limit/Sony-WH-1000MX5-Gear.jpg",
+            "publishedAt": "2022-11-21T12:00:00Z",
+            "content": "Black Friday is almost here but retailers like Target and Best Buy kicked off sales early. It makes it easier to cross gifts off your holiday shopping list before December rolls around. Below, you'll… [+16444 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Kate Knibbs",
+            "title": "Twitter’s Layoffs Are a Blow to Accessibility",
+            "description": "The company recently took major steps to make the platform more inclusive after pressure from disabled users. Then Elon Musk gutted its accessibility team.",
+            "url": "https://www.wired.com/story/twitter-layoffs-accessibility/",
+            "urlToImage": "https://media.wired.com/photos/63780b6bef69bd3269392c1f/191:100/w_1280,c_limit/Twitter-Layoffs-Are-Blow-To-Accessibility-Culture.jpg",
+            "publishedAt": "2022-11-21T14:00:00Z",
+            "content": "Theyve been really strong, Scott Blanks, the vice president of the nonprofit Lighthouse for the Blind, says. Now theyre all gone.\r\nDespite its late start, Twitter had established itself as one of the… [+2885 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alice Newcome-Beill",
+            "title": "Black Friday sales on Sonos soundbars are live at Best Buy",
+            "description": "Best Buy is discounting a variety of Sonos soundbars and standalone speakers during its Black Friday sale, including the Sonos Arc, second-gen beam, and Sonos One.",
+            "url": "https://www.theverge.com/2022/11/21/23464338/black-friday-sonos-soundbar-speaker-best-buy-deal-sale",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/9Phyvhfil_rfTA2aByBP3850q38=/0x0:2040x1360/1200x628/filters:focal(938x648:939x649)/cdn.vox-cdn.com/uploads/chorus_asset/file/22888934/cwelch_290921_4780_5672.jpg",
+            "publishedAt": "2022-11-21T14:52:30Z",
+            "content": "Black Friday sales on Sonos soundbars are live at Best Buy\r\nBlack Friday sales on Sonos soundbars are live at Best Buy\r\n / Best Buy is discounting the Sonos Arc, Beam, Roam, and other speakers throug… [+5529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Germain",
+            "title": "Apple Says Your iPhone's Usage Data is Anonymous, but New Tests Say That's Not True",
+            "description": "A new test of how Apple gathers usage data from iPhones has found that the company collects personally identifiable information while explicitly promising not to. Read more...",
+            "url": "https://gizmodo.com/apple-iphone-privacy-dsid-analytics-personal-data-test-1849807619",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c37a50d6f96ffab8b17a6837820ea96d.jpg",
+            "publishedAt": "2022-11-21T15:47:00Z",
+            "content": "A new test of how Apple gathers usage data from iPhones has found that the company collects personally identifiable information while explicitly promising not to. \r\nThe privacy policy governing Apple… [+5433 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jeremy Reimer",
+            "title": "A history of ARM, part 2: Everything starts to come together",
+            "description": "What had started as twelve people and a dream was now a billion-dollar company.",
+            "url": "https://arstechnica.com/gadgets/2022/11/a-history-of-arm-part-2-everything-starts-to-come-together/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/armpart29-760x380.jpeg",
+            "publishedAt": "2022-11-21T12:00:12Z",
+            "content": "Enlarge/ The Acorn Archimedes 3000, released in May 1989. \r\n5 with 0 posters participating\r\nThe story so far: At the end of the 1980s, Acorn Computers was at a crossroads. A small team, led by Sophie… [+4601 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Taiwan Oct export orders down more than expected; outlook tough - Reuters",
+            "description": "Taiwan's export orders contracted more severely than expected in October on weak consumer demand hit by inflation and interest rate hikes, with the government warning that China's insistence on a zero-COVID strategy would affect the outlook.",
+            "url": "https://www.reuters.com/markets/asia/taiwan-oct-export-orders-down-more-than-expected-outlook-tough-2022-11-21/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120",
+            "publishedAt": "2022-11-21T08:57:00Z",
+            "content": "TAIPEI, Nov 21 (Reuters) - Taiwan's export orders contracted more severely than expected in October on weak consumer demand hit by inflation and interest rate hikes, with the government warning that … [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "brendan.griffiths@futurenet.com (Brendan Griffiths)",
+            "title": "Black Friday Amazon deals: $79 TVs, $19 Fire Sticks, and all-time low sale prices on headphones, laptops, and more",
+            "description": "It's Amazon's Black Friday deals week and many of the best sales have gone live already. So why wait?",
+            "url": "https://www.androidcentral.com/news/live/black-friday-amazon-deals-112122",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/KkPLLon7nhTh3nqXX8AZyd-1200-80.jpg",
+            "publishedAt": "2022-11-21T19:22:02Z",
+            "content": "2022-11-21T19:27:00.251Z\r\n(Image credit: Nicholas Sutrich / Android Central)\r\nCompared to a lot of the best smartwatches out there, the Galaxy Watch 5 starts off at a very reasonable price, especiall… [+36926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Josh Halliday",
+            "title": "Keyboard shortcuts and a poker face: how to watch the World Cup at work",
+            "description": "Here are the crucial dos and don’ts for not giving the game away in the office over the next four weeksFrom Monday, the World Cup in Qatar begins in earnest, and millions of Britons will be faced with the same problem: how to watch the football at work discre…",
+            "url": "https://www.theguardian.com/football/2022/nov/21/how-to-watch-world-cup-22-at-work",
+            "urlToImage": "https://i.guim.co.uk/img/media/6255285538c8807049ac72dc6ac17059552455a7/13_0_5768_3461/master/5768.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a189a1209ab30751fdaad02cf067a907",
+            "publishedAt": "2022-11-21T07:34:38Z",
+            "content": "From Monday, the World Cup in Qatar begins in earnest, and millions of Britons will be faced with the same problem: how to watch the football at workdiscreetly.\r\nOne poll found that nearly half of th… [+2379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jasper Jolly",
+            "title": "Disney: Bob Iger returns as CEO as Bob Chapek exits",
+            "description": "Entertainment company restores executive who led it for 15 years, ousting replacement after 33 monthsDisney has reappointed Bob Iger as its chief executive in a surprise decision as the entertainment company ousted his hand-picked replacement, Bob Chapek, aft…",
+            "url": "https://www.theguardian.com/film/2022/nov/21/disney-bob-iger-returns-as-ceo-bob-chapek",
+            "urlToImage": "https://i.guim.co.uk/img/media/4fa8e53c0f47bd2922bba323cfb1a529c4e80b1c/0_244_3218_1930/master/3218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=071c9a3813c7bb7639b851b93a20a32a",
+            "publishedAt": "2022-11-21T08:13:37Z",
+            "content": "Disney has reappointed Bob Iger as its chief executive in a surprise decision as the entertainment company ousted his hand-picked replacement, Bob Chapek, after less than three years in the job.\r\nIge… [+3012 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samuel Gibbs Consumer technology editor",
+            "title": "Microsoft Surface Laptop 5 review: slick operation but dated design",
+            "description": "Premium Windows 11 PC offers smooth and quiet experience but is showing its age compared with rivalsMicrosoft’s latest Surface Laptop has new chips, new connections and costs the same as last year but has a five-year-old design that makes it look aged.The Sur…",
+            "url": "https://www.theguardian.com/technology/2022/nov/21/microsoft-surface-laptop-5-windows-11-review-slick-operation-but-dated-design",
+            "urlToImage": "https://i.guim.co.uk/img/media/482a892fd4e559c5338a0d3de1e57113c358d6b7/360_490_5094_3056/master/5094.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTQucG5n&enable=upscale&s=26909b574d90c8fa65007f62fb110866",
+            "publishedAt": "2022-11-21T07:00:49Z",
+            "content": "Microsofts latest Surface Laptop has new chips, new connections and costs the same as last year but has a five-year-old design that makes it look aged.\r\nThe Surface Laptop 5 starts at £999 ($999/A$1,… [+5941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Mitchel Broussard",
+            "title": "Mondo Announces Collectible Vinyl Soundtrack for Apple TV+ Series 'Severance'",
+            "description": "Collectibles company Mondo today announced an exclusive vinyl soundtrack for the first season of the Apple TV+ series Severance. There are two versions of the vinyl with different artwork, packaging, and merch included, and both go on sale this Wednesday.\n\n\n\n…",
+            "url": "https://www.macrumors.com/2022/11/21/mondo-severance-soundtrack/",
+            "urlToImage": "https://images.macrumors.com/t/ksAdcu1Icl4KZBebs17MarQZnA0=/2026x/article-new/2022/11/severance-5.jpg",
+            "publishedAt": "2022-11-21T20:33:26Z",
+            "content": "Collectibles company Mondo today announced an exclusive vinyl soundtrack for the first season of the Apple TV+ series Severance. There are two versions of the vinyl with different artwork, packaging,… [+1124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "iPhone 15 Could Feature Titanium Chassis With Curved Rear Edges",
+            "description": "Apple's 2023 iPhone will feature a titanium chassis with curved rear edges replacing the existing squared off design, claims a new rumor.\n\n\n\n\n\nAccording to Twitter user @ShrimpApplePro, the back edges of the iPhone 15 will be rounded to create a new border, s…",
+            "url": "https://www.macrumors.com/2022/11/21/iphone-15-titanium-curved-rear-edges/",
+            "urlToImage": "https://images.macrumors.com/t/4UdtWI63s3vVRjhMIrZUDw7kVbw=/1600x/article-new/2022/09/iPhone-14-Pro-Rear-Camera.jpg",
+            "publishedAt": "2022-11-21T10:25:50Z",
+            "content": "Apple's 2023 iPhone will feature a titanium chassis with curved rear edges replacing the existing squared off design, claims a new rumor.\r\nAccording to Twitter user @ShrimpApplePro, the back edges of… [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Mitchel Broussard",
+            "title": "Walmart Reveals Black Friday Plans With Week-Long Sales Starting Today",
+            "description": "Retailers have been waiting longer and longer to reveal their specific plans for the week of Black Friday, now that the shopping event begins as early as October and most companies focus on \"early Black Friday\" deals first. Today, we've finally got more infor…",
+            "url": "https://www.macrumors.com/2022/11/21/walmart-reveals-black-friday-plans/",
+            "urlToImage": "https://images.macrumors.com/t/vA5lfjUO3lhA_YMU9Ob6UvPAlM4=/1600x/article-new/2020/11/Walmart-November-Deals-Hero-2.jpg",
+            "publishedAt": "2022-11-21T16:35:28Z",
+            "content": "Retailers have been waiting longer and longer to reveal their specific plans for the week of Black Friday, now that the shopping event begins as early as October and most companies focus on \"early Bl… [+3087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "iCloud for Windows Users Complain of Corrupted Videos, Photos From Strangers",
+            "description": "Apple's iCloud for Windows software appears to experiencing serious issues for some users, with complaints on the MacRumors forums about corrupted videos and images from strangers appearing in Photo Libraries.\n\n\n\n\n\nThere are a handful of complaints from custo…",
+            "url": "https://www.macrumors.com/2022/11/21/icloud-for-windows-corrupt-video-bug/",
+            "urlToImage": "https://images.macrumors.com/t/GJLg8XqxYZ1E-aISKWKoQL2EfRM=/2250x/article-new/2021/06/iCloud-General-Feature.jpg",
+            "publishedAt": "2022-11-21T20:05:33Z",
+            "content": "Apple's iCloud for Windows software appears to experiencing serious issues for some users, with complaints on the MacRumors forums about corrupted videos and images from strangers appearing in Photo … [+1448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Adrian Marlow",
+            "title": "You Don't Need to Wait for Black Friday to Score This iPad Deal - CNET",
+            "description": "At Amazon, Apple's ninth-gen iPad is just $1 more than its lowest ever price.",
+            "url": "https://www.cnet.com/deals/you-dont-need-to-wait-for-black-friday-to-score-this-ipad-deal/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/679e0345321d7a156c7a699d169fd499f50fefb3/hub/2022/11/21/2f11d2b5-0920-4892-b5e8-1037e0e36c2d/ipad-2021-10-2-inch.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-21T20:36:00Z",
+            "content": "This story is part of Gift Guide, our year-round collection of the best gift ideas. \r\nApple's ninth-gen iPad could be just what you need if you're looking for a portable tablet that can help you be p… [+2478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Lexy Savvides",
+            "title": "Holiday Trip Checklist: 9 Travel Gadgets That Are a Bargain Under $50 - CNET",
+            "description": "You won't want to leave home without these finds.",
+            "url": "https://www.cnet.com/tech/holiday-trip-checklist-9-travel-gadgets-are-a-bargain-under-50/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/0d716e4a9c4dcade7511d35cbfc2c768885652cd/hub/2022/11/18/e5166aea-6633-482f-99e6-3e423d05a03a/lens.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-21T16:50:05Z",
+            "content": "It's Thanksgiving week, and many of you are packing for holiday travel. Whether you're jet-setting the globe or keeping things more low-key with a staycation, I've found some practical and fun travel… [+4751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Dan Ackerman",
+            "title": "Best Black Friday Xbox Controller Deals, Starting at $40 - CNET",
+            "description": "Your game pad is going to break, so you might as well stock up on extras with these Black Friday deals.",
+            "url": "https://www.cnet.com/deals/best-black-friday-xbox-controller-deals/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/009c9820b499726ce519ee93bff3cf3992087fad/hub/2020/12/18/13094f9e-5893-4d3e-a609-90b1bf6e8eb2/xbox-controller-for-xbox-series-x-s-one.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-21T15:39:00Z",
+            "content": "The Xbox game pad has become the go-to gaming controller for almost everyone. In addition to the Xbox Series X and Series S (and last-gen Xboxes), it's the default controller for PC gaming, and widel… [+2476 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Sami Fathi",
+            "title": "Apple Music Coming to Tesla Vehicles",
+            "description": "Apple Music will be available in Tesla vehicles through a future software update, giving Tesla customers the ability to use ‌Apple Music‌ using the vehicles' built-in system.\n\n\n\n\n\nAt a recent exhibit for Tesla at the Petersen Automotive Museum in Los Angeles,…",
+            "url": "https://www.macrumors.com/2022/11/21/apple-music-tesla-vehicles/",
+            "urlToImage": "https://images.macrumors.com/t/FhOW85qUG3EZBw65R3J6aWTQMFI=/1600x/article-new/2021/08/apple-music.jpg",
+            "publishedAt": "2022-11-21T08:24:49Z",
+            "content": "Apple Music could be coming to Tesla vehicles through a future software update, giving Tesla customers the ability to use ‌Apple Music‌ using the vehicles' built-in system.\r\nAt a recent exhibit for T… [+688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Store in Greater Boston Area Struck by Vehicle, Multiple Injuries Reported",
+            "description": "Apple Derby Street in the Boston suburb of Hingham, Massachusetts was struck by a vehicle on Monday morning, according to local ABC affiliate WCVB. The report claims that several people have been injured, with first responders and ambulances on scene.\n\n\n\n\n\nTh…",
+            "url": "https://www.macrumors.com/2022/11/21/apple-store-hingham-vehicle-crash/",
+            "urlToImage": "https://images.macrumors.com/t/edm9aKfrytQiKy3Nw__zahv7qh8=/2880x/article-new/2022/11/Apple-Derby-Street.jpeg",
+            "publishedAt": "2022-11-21T16:42:58Z",
+            "content": "Apple Derby Street in the Boston suburb of Hingham, Massachusetts was struck by a vehicle on Monday morning, according to local ABC affiliate WCVB. The report claimed at least five people have been i… [+340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Tim Hardwick",
+            "title": "Apple Supplier TSMC to Produce 3nm Chips at Arizona Plant",
+            "description": "Apple chip supplier TSMC has plans in place to mass produce next-generation 3-nanometer chips at its $12 billion Arizona facility, according to the Taiwanese company's founder.\n\n\n\n\n\nSpeaking to reporters on Monday in Taipei, Morris Chang said the 3-nanometre …",
+            "url": "https://www.macrumors.com/2022/11/21/tsmc-apple-3nm-chips-arizona-plant/",
+            "urlToImage": "https://images.macrumors.com/t/imKuUlfjYQqdqL6XgYAx8ySQ06c=/1810x/article-new/2021/06/3nm-apple-silicon-feature.jpg",
+            "publishedAt": "2022-11-21T12:14:44Z",
+            "content": "Apple chip supplier TSMC has plans in place to mass produce next-generation 3-nanometer chips at its $12 billion Arizona facility, according to the Taiwanese company's founder.\r\nSpeaking to reporters… [+1331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Mitchel Broussard",
+            "title": "Black Friday Discount Arrives for Magic Trackpad 2, Available for $84.99 ($44 Off)",
+            "description": "Apple's Magic Trackpad 2 has dropped to $84.99 in new condition on Woot, down from $129.99. This is one of the best prices we've ever tracked on the accessory, and only Woot has the deal.\n\n\n\nNote: MacRumors is an affiliate partner with Woot. When you click a …",
+            "url": "https://www.macrumors.com/2022/11/21/deals-magic-trackpad-2-discounted/",
+            "urlToImage": "https://images.macrumors.com/t/Kqy_clXHC9irWPmyT2R3rWhcu1Q=/1600x/article-new/2022/11/magic-trackpad-2-gingerbread.jpg",
+            "publishedAt": "2022-11-21T14:35:37Z",
+            "content": "Apple's Magic Trackpad 2 has dropped to $84.99 in new condition on Woot, down from $129.99. This is one of the best prices we've ever tracked on the accessory, and only Woot has the deal.\r\nNote: MacR… [+933 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+            "title": "Warren Buffett's Berkshire Hathaway now has $11 billion riding on 5 Japanese stocks, as it continues a record spending spree",
+            "description": "Buffett's company has boosted its stakes in Japan's five largest trading houses to over 6%, after spending a net $49 billion on stocks this year.",
+            "url": "https://markets.businessinsider.com/news/stocks/warren-buffett-berkshire-hathaway-buys-japan-stocks-portfolio-spending-spree-2022-11",
+            "urlToImage": "https://i.insider.com/637b6e51c6a3060018895f55?width=1200&format=jpeg",
+            "publishedAt": "2022-11-21T14:54:32Z",
+            "content": "Warren Buffett's Berkshire Hathaway has bolstered its stakes in Japan's five largest trading houses, continuing a historic spending spree that shows few signs of stopping.\r\nThe famed investor's compa… [+2245 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "wantonelli@insider.com (William Antonelli)",
+            "title": "What is Hive Social? A guide to the viral Twitter alternative that has no algorithms",
+            "description": "Hive Social is a mobile-only social media app that lets you post messages, videos, polls, and more to a chronological feed of followers.",
+            "url": "https://www.businessinsider.com/guides/tech/what-is-hive-social-media-app",
+            "urlToImage": "https://i.insider.com/637bde472c8b9a0018cbf8d0?width=1200&format=jpeg",
+            "publishedAt": "2022-11-21T22:03:15Z",
+            "content": "Twitter has had a tumultuous year, and users are starting to seek other options. One of the most popular Twitter alternatives to crop up lately is Hive Social.\r\nHive Social is a mobile-only platform … [+4705 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "izavarise@insider.com (Isabella Zavarise)",
+            "title": "Australian woman speaks out after a man — who she alleges broke into her home, raped her, and sent an apology text for doing 'the most heinous thing possible' — was found not guilty",
+            "description": "On September 7th, Lyndon Montgomery was found not guilty of breaking into Holly Harris' home and raping her.",
+            "url": "https://www.businessinsider.com/holly-harris-rape-case-lyndon-montgomery-not-guilty",
+            "urlToImage": "https://i.insider.com/63586122df44920019450c12?width=1200&format=jpeg",
+            "publishedAt": "2022-11-21T23:17:06Z",
+            "content": "When Holly Harris woke up, she was freezing. The sliding door in her bedroom was ajar, which puzzled her. She never slept with the door open, especially on a cold, September night in Melbourne, Austr… [+8695 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jbaron@insider.com (Jasmin Baron, CEPF)",
+            "title": "Best credit cards of November 21, 2022",
+            "description": "The best credit card bonuses and deals right now can earn you a ton of travel miles, flexible points, or cash back on your holiday spending.",
+            "url": "https://www.businessinsider.com/personal-finance/best-credit-cards-2022-11-21",
+            "urlToImage": "https://i.insider.com/6377f1f12c8b9a0018cbb7d0?width=1200&format=jpeg",
+            "publishedAt": "2022-11-21T15:15:00Z",
+            "content": "Insider's experts choose the best products and services to help make smart decisions with your money (heres how). In some cases, we receive a commission from our our partners, however, our opinions a… [+53518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Emily Rella",
+            "title": "Car Crashes Into Apple Store, One Confirmed Dead and 14 Hospitalized",
+            "description": "The crash happened around 11 a.m. in Hingham, Massachusetts.",
+            "url": "https://www.entrepreneur.com/business-news/car-crashes-into-apple-store-injuring-multiple-people/439597",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1669053632-ScreenShot2022-11-21at125952PM.png",
+            "publishedAt": "2022-11-21T18:14:00Z",
+            "content": "Chaos ensued in an Apple store in Hingham, Massachusetts when a car crashed through the front window, killing one person and leaving 14 hospitalized.\r\nThe incident occurred on Derby Street just after… [+1603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Emily Washcovick",
+            "title": "San Angelo is Sweet on This Unique Donut Shop",
+            "description": "Ash Cordona never thought he'd own a donut shop, after years in trucking and transportation, but when an opportunity to buy Donutopia fell into their laps, he and his wife Sophea jumped at the chance to own a small business.",
+            "url": "https://www.entrepreneur.com/growing-a-business/san-angelo-is-sweet-on-this-unique-donut-shop/439575",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1669040569-EntrepreneurBTRDonutopia.jpg",
+            "publishedAt": "2022-11-21T14:24:00Z",
+            "content": "Behind the Review host and Yelp's Small Business Expert, Emily Washcovick, shares a look at this week's episode of the podcast.\r\nDonutopia\r\nThe aroma of freshly baked donuts is the first thing that g… [+5897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Rubén Chicharro",
+            "title": "El iPhone 15 llegaría con nuevos materiales y un nuevo aspecto en su parte trasera",
+            "description": "Los iPhone 14 y 14 Pro acaban de anunciarse, pero ya conocemos algunos detalles sobre los modelos que llegarán el próximo año. ShrimpApplePro, una cuenta de Twitter que suele publicar rumores sobre los dispositivos de la compañía, sugiere que los iPhone 15 ll…",
+            "url": "https://hipertextual.com/2022/11/iphone-15-diseno-parecido-iphone-5c-marcos-titanio",
+            "urlToImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/iPhone-14-Plus-5.jpg?fit=2500%2C1667&quality=60&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T18:01:00Z",
+            "content": "Los iPhone 14 y 14 Pro acaban de anunciarse, pero ya conocemos algunos detalles sobre los modelos que llegarán el próximo año. ShrimpApplePro, una cuenta de Twitter que suele publicar rumores sobre l… [+2241 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Hipertextual (Redacción)",
+            "title": "Semana del Black Friday: las mejores ofertas del momento",
+            "description": "Entramos en la semana de ofertas del Black Friday y, como podía ser de otra forma, empiezan a llegar las grandes caídas de precio de estos días de descuentos de vértigo. Como suele ser habitual, es el mejor momento para hacerte con algunos de los mejores prod…",
+            "url": "https://hipertextual.com/2022/11/mejores-ofertas-del-black-friday",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2018/11/Black-Friday.png",
+            "publishedAt": "2022-11-21T10:09:36Z",
+            "content": "Entramos en la semana de ofertas del Black Friday y, como podía ser de otra forma, empiezan a llegar las grandes caídas de precio de estos días de descuentos de vértigo. Como suele ser habitual, es e… [+6074 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Alana Semuels",
+            "title": "Why We Buy Things We Don’t Need",
+            "description": "Part of our drive to consume is down to the way our brains have evolved. And there may be a way to break the cycle.",
+            "url": "https://time.com/6235522/why-shopping-is-addictive/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2022/11/NeuroShopping.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2022-11-21T14:49:35Z",
+            "content": "Searching for an explanation for compulsive shopping, I recently ran across the story of a woman who couldn’t stop buying rabbits. Her husband told doctors that each day, she would visit the market a… [+9096 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Several injured when SUV crashes into front of Apple store",
+            "description": "Authorities say an SUV crashed into Apple store in Massachusetts, injuring several people",
+            "url": "https://abcnews.go.com/US/wireStory/injured-suv-crashes-front-apple-store-93735750",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2022-11-21T17:33:38Z",
+            "content": "HINGHAM, Mass. -- An SUV crashed into Apple store Monday in Massachusetts, injuring several people, authorities said.\r\nA large hole was seen in the glass front of the store and first responders were … [+476 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Luke Barr",
+            "title": "Car crashes into Apple store, multiple people hurt",
+            "description": "Multiple people were injured after a car crashed into an Apple store in Hingham, Massachusetts, Monday morning.",
+            "url": "https://abcnews.go.com/US/car-crashes-apple-store-massachusetts-multiple-people-hurt/story?id=93730678",
+            "urlToImage": "https://s.abcnews.com/images/US/apple-1-abc-er-221121_1669048126274_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-11-21T17:48:05Z",
+            "content": "Multiple people were injured after a car crashed into an Apple store in Hingham, Massachusetts, Monday morning, according to a law enforcement official.\r\nThe number of people hurt was not immediately… [+114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Christine Romero-Chan",
+            "title": "The 3 biggest gambles Apple made in 2022 — and how they paid off",
+            "description": "This has been an interesting year for Apple as it got bold and a bit experimental. Some of those risks paid off, but others were a bit of a miss.",
+            "url": "https://www.digitaltrends.com/mobile/apple-three-biggest-gambles-2022-dynamic-island-watch-ultra/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/09/iPhone-14-Pro-Back-with-Apple-TV-Remote.jpg?p=1",
+            "publishedAt": "2022-11-21T15:00:44Z",
+            "content": "As 2022 starts to wind down, its a good time to take a moment and reflect on how wild this year has been, especially in the world of tech. Specifically for Apple, this was one of the more interesting… [+8389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Andy Boxall",
+            "title": "The Pixel Watch reminds me why I love smartwatches, but don’t love it",
+            "description": "Revisiting the Google Pixel Watch has reminded me why I love smartwatches and all the associated benefits. But also why I don't love the Pixel Watch.",
+            "url": "https://www.digitaltrends.com/mobile/google-pixel-watch-one-month-later-dont-love-it-why/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/11/Pixel-Watch-Front-Wrist.jpg?p=1",
+            "publishedAt": "2022-11-21T13:30:16Z",
+            "content": "I was disappointed with the Pixel Watch when I first used it, something that’s made very clear in my Google Pixel Watch review. Following that, I wanted to give the Pixel Watch a little space before … [+6984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Franklin Foer",
+            "title": "Antony Blinken on the Diplomatic Niceties of the Beautiful Game",
+            "description": "The secretary of state discusses his lifelong love of soccer and humanitarian concerns about this year’s World Cup.",
+            "url": "https://www.theatlantic.com/newsletters/archive/2022/11/antony-blinken-world-cup/672200/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2022-11-21T17:46:00Z",
+            "content": "This is an edition of The Great Game, a newsletter about the 2022 World Cup—and how soccer explains the world. Sign up here.Secretary of State Antony Blinken is perhaps the highest-ranking soccer fan… [+7813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tumblr.com"
+            },
+            "author": null,
+            "title": "There’s No Algorithms",
+            "description": "Dear Mr Gaiman, \nI am but a humble refugee from the currently imploding hellsite of Twitter, and I have to ask - how does Tumblr work?\nYours sincerely,\nAn Elon Musk Disliker\nVery oddly. There's no...",
+            "url": "https://photomatt.tumblr.com/post/701509650060886017/dear-mr-gaiman-i-am-but-a-humble-refugee-from",
+            "urlToImage": null,
+            "publishedAt": "2022-11-21T20:02:35Z",
+            "content": "For those who don’t know or remember, Tumblr used to have a policy around porn that was literally “Go nuts, show nuts. Whatever.” That was memorable and hilarious, and for many people, Tumblr both ho… [+5381 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Patrick Bellmer",
+            "title": "Qualcomm Snapdragon 8 Gen 2: Erste Benchmarks deuten Leistungssprung an",
+            "description": "Qualcomms neuer Smartphone-Prozessor rechnet deutlich schneller als sein Vorgänger, kann aber nicht in allen Belangen mit Apple mithalten.",
+            "url": "https://www.heise.de/news/Qualcomm-Snapdragon-8-Gen-2-Erste-Benchmarks-deuten-Leistungssprung-an-7346868.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/4/6/5/6/5/IMG_6343-a68155ef2f084984.jpeg",
+            "publishedAt": "2022-11-21T12:00:00Z",
+            "content": "Inhaltsverzeichnis\r\nMit einer überarbeiteten Grafikeinheit sowie schnelleren und neu sortierten CPU-Kernen soll der Snapdragon 8 Gen 2 Qualcomms bislang schnellstes System-on-Chip (SoC) sein. Erste T… [+6451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Malte Kirchner",
+            "title": "VMWare Fusion 13 ist fertig: Windows 11 auf Apple-Silicon-Macs",
+            "description": "Der Veröffentlichung von VMWare Fusion 13 war viel Arbeit vorausgegangen. Die neue Version der Virtualisierungssoftware bringt Windows 11 ARM auf den Apple M1.",
+            "url": "https://www.heise.de/news/VMWare-Fusion-13-ist-fertig-Windows-11-auf-Apple-Silicon-Macs-7347626.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/4/7/0/0/3/winrar-emulated-52330716c3cde3a2.png",
+            "publishedAt": "2022-11-21T15:08:00Z",
+            "content": "VMWare hat mit Fusion 13 eine neue Version seiner Virtualisierungssoftware für den Mac veröffentlicht. Im Zentrum der Neuerungen steht die Unterstützung von Windows 11 auf Macs mit Intel- und Apple S… [+2616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Bruno Stömer",
+            "title": "VMware: Workstation 17 erscheint mit Windows 11 und Server 2022 Unterstützung",
+            "description": "VMware bringt seine Virtualisierungstools auf den Stand aktueller Systeme: Workstation 17 beherrscht Windows 11 und Server 2022, Fusion 13 Apple-Silicon-Macs.",
+            "url": "https://www.heise.de/news/VMware-Workstation-17-erscheint-mit-Windows-11-und-Server-2022-Unterstuetzung-7347738.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/4/7/0/6/2/shutterstock_1224746881-a44e82b81008de8d.jpg",
+            "publishedAt": "2022-11-21T16:55:00Z",
+            "content": "VMwares Virtualisierungstool Workstation 17 ist als abgespeckte Player- und vollwertige Pro-Version allgemein verfügbar. Die große Neuerung in Workstation ist die offizielle Integration von Windows 1… [+2658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "iPhone 15 Pro und 15 Pro Ultra: Welche Exklusivfunktionen Apple plant",
+            "description": "Schon iPhone 14 und 14 Pro unterscheiden sich stark. 2023 dürfte die Diversifizierung noch weiter gehen – und auch die Pro-Modelle untereinander betreffen.",
+            "url": "https://www.heise.de/news/iPhone-15-Pro-und-15-Pro-Ultra-Welche-Exklusivfunktionen-Apple-plant-7346997.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/4/6/6/4/1/ultra-223bd43194191ff1-dd27679694d5a6df.png",
+            "publishedAt": "2022-11-21T08:48:00Z",
+            "content": "Apple plant für das kommende Jahr eine nochmals stärkere Unterscheidung zwischen seinen iPhone-Modellen. iPhone 15 und iPhone 15 Pro sollen, so zumindest üblicherweise gut informierte Gerüchteköche, … [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Should you buy a cellular Apple Watch? Here’s everything to consider",
+            "description": "The Apple Watch lineup is available in a number of different options and configurations, ranging from different case materials, colors, sizes, and more. One of the most important things to consider, however, whether or not you should buy an Apple Watch with c…",
+            "url": "https://9to5mac.com/2022/11/21/cellular-apple-watch-worth-the-money/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-watch-series-7.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T18:25:00Z",
+            "content": "The Apple Watch lineup is available in a number of different options and configurations, ranging from different case materials, colors, sizes, and more. One of the most important things to consider, … [+5296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "NFL Sunday Ticket: Apple taking streaming football negotiations into overtime over ‘rights to the unknown’",
+            "description": "It’s hardly a secret that Apple is negotiating with the National Football League for streaming rights to NFL Sunday Ticket. What seems impossible to know yet is if Apple will actually replace DirecTV as the new home of the valuable pro football package.\n more…",
+            "url": "https://9to5mac.com/2022/11/21/nfl-sunday-ticket-apple-taking-streaming-football-negotiations-into-overtime-over-rights-to-the-unknown/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/NFL-Plus-Apple.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T18:10:01Z",
+            "content": "Its hardly a secret that Apple is negotiating with the National Football League for streaming rights to NFL Sunday Ticket. What seems impossible to know yet is if Apple will actually replace DirecTV … [+3036 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Apple Fitness+ adds new Time to Walk episode with musician Chaka Khan",
+            "description": "Apple is continuing to expand its popular Time to Walk series for Apple Fitness+ users. This time, the company has added a new Time to Walk workout featuring 10-time Grammy award winning musician Chaka Khan. As reported by AP News, this new 32-minute episode …",
+            "url": "https://9to5mac.com/2022/11/21/apple-fitness-time-to-walk-chaka-khan/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/time-to-walk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T23:11:09Z",
+            "content": "Apple is continuing to expand its popular Time to Walk series for Apple Fitness+ users. This time, the company has added a new Time to Walk workout featuring 10-time Grammy award winning musician Cha… [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Rikka Altland",
+            "title": "Monday’s best deals: AirPods Pro 2 $200, Apple Watch Ultra $60 off, AirTags, more",
+            "description": "Kicking off Thanksgiving Week, all of today’s best Apple Black Friday deals are now headlined by a new all-time low on Apple’s latest AirPods Pro 2 with $49 in savings at $200. That’s alongside the best prices yet on Apple Watch Ultra models at $60 off, as we…",
+            "url": "https://9to5mac.com/2022/11/21/airpods-pro-2-black-friday-deals/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/10/AirPods-pro-2-review.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T16:55:20Z",
+            "content": "Kicking off Thanksgiving Week, all of today’s best Apple Black Friday deals are now headlined by a new all-time low on Apple’s latest AirPods Pro 2 with $49 in savings at $200. That’s alongside the b… [+4458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "How to watch the World Cup on iPhone, iPad, Apple TV, and web plus free full-match replays",
+            "description": "The 2022 FIFA World Cup is here, the most-watched sporting event on the planet. Whether you’re looking to follow along at home, on the go, or at the office, here’s how to watch the World Cup on iPhone, iPad, Apple TV, and web.\n more…\nThe post How to watch the…",
+            "url": "https://9to5mac.com/2022/11/21/world-cup-on-iphone/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/how-to-watch-world-cup-iphone-apple-tv-web.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T21:14:10Z",
+            "content": "The 2022 FIFA World Cup is here, the most-watched sporting event on the planet. Whether you’re looking to follow along at home, on the go, or at the office, here’s how to watch the World Cup on iPhon… [+4591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "SUV smashes into Massachusetts Apple Store, may have been a targeted attack",
+            "description": "An SUV drove through the glass of an Apple Store in Massachusetts this morning in what one Fire Marshall has called a possibly “intentional” act. Details aren’t fully clear on injuries, but sadly multiple people have been taken to the emergency room with one …",
+            "url": "https://9to5mac.com/2022/11/21/suv-smashes-into-apple-store-derby-street/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/apple-store-vehicle-crash.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T18:16:09Z",
+            "content": "An SUV drove through the glass of an Apple Store in Massachusetts this morning in what one Fire Marshall has called a possibly “intentional” act. Details aren’t fully clear on injuries, but sadly mul… [+1054 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "iOS privacy concerns deepen as Apple’s promises on analytics anonymity appear to be false",
+            "description": "iOS privacy concerns were raised last week when security researchers appeared to demonstrate that iPhones send the same analytics data to Apple whether you grant or decline permission.\nThe same researchers have now demonstrated that Apple can – despite assura…",
+            "url": "https://9to5mac.com/2022/11/21/ios-privacy-concerns-deepen/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/iOS-privacy-concerns.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T13:41:48Z",
+            "content": "iOS privacy concerns were raised last week when security researchers appeared to demonstrate that iPhones send the same analytics data to Apple whether you grant or decline permission.\r\nThe same rese… [+4083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "TSMC confirms plans for second Arizona plant to make 3nm chips",
+            "description": "Update: TSMC has now confirmed the earlier report; Reuters reports a statement by the company’s founder, added at the bottom of the piece.\nIt’s looking increasingly likely that some future Apple chips will be made in the US, following a new report about A-ser…",
+            "url": "https://9to5mac.com/2022/11/21/apple-chips-2/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/Apple-chips.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T12:36:55Z",
+            "content": "Update: TSMC has now confirmed the earlier report; Reuters reports a statement by the company’s founder, added at the bottom of the piece.\r\nIt’s looking increasingly likely that some future Apple chi… [+4574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "iPhone 15 design to feature titanium case, may have iPhone 5C-style rounded back – leaker",
+            "description": "A leaker with a decent track record has reported that the iPhone 15 design will feature a titanium casing, and may have a rounded back, rather than the squared edge of the current models.\nThis might give next year’s iPhone line-up a similar profile to the iPh…",
+            "url": "https://9to5mac.com/2022/11/21/iphone-15-design/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/iPhone-15-design-like-5C.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T12:22:27Z",
+            "content": "A leaker with a decent track record has reported that the iPhone 15 design will feature a titanium casing, and may have a rounded back, rather than the squared edge of the current models.\r\nThis might… [+1947 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Tim Cook parties in Las Vegas: Adele’s opening night, controls Diplo’s special effects on stage",
+            "description": "Tim Cook hit Las Vegas this weekend to attend a pair of big events on Friday night. The Apple CEO was in the audience alongside Mark Zuckerberg and James Corden at opening night of Adele’s residency at Caesars Palace. He then headed down the strip to XS Night…",
+            "url": "https://9to5mac.com/2022/11/21/tim-cook-diplo-adele-concerts-las-vegas/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/tim-cook-vegas.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T22:13:25Z",
+            "content": "Tim Cook hit Las Vegas this weekend to attend a pair of big events on Friday night. The Apple CEO was in the audience alongside Mark Zuckerberg and James Corden at opening night of Adele’s residency … [+1510 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "Review: Moft Float Folio for iPad Pro, Air, and mini packs four stands into a minimalist design",
+            "description": "Moft recently launched its newest Apple accessory, a clever origami-style folio meets stand that offers handy versatility for iPad with a minimalist design. I’ve been testing out the Snap Float Folio for the last few weeks that features four ways to lift your…",
+            "url": "https://9to5mac.com/2022/11/21/moft-float-folio-for-ipad-review/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/moft-float-folio-ipad-review.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T17:38:42Z",
+            "content": "Moft recently launched its newest Apple accessory, a clever origami-style folio meets stand that offers handy versatility for iPad with a minimalist design. I’ve been testing out the Snap Float Folio… [+3794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "Spotify wants to make your podcast sound better with new one-tap feature for Anchor",
+            "description": "Spotify has pushed more and more into podcasting in recent years, including its acquisition of the podcast creation platform Anchor in 2019. Now, Spotify is rolling out an update to the dedicated Anchor app on iPhone with a new feature it says can drastically…",
+            "url": "https://9to5mac.com/2022/11/21/anchor-podcast-audio-feature-spotify/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/637b81131aad1753b014f83f_1920x1080_AudioEnhancement_WoM_Inline_2-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T19:54:46Z",
+            "content": "Spotify has pushed more and more into podcasting in recent years, including its acquisition of the podcast creation platform Anchor in 2019. Now, Spotify is rolling out an update to the dedicated Anc… [+1750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "iCloud for Windows users claim images and videos from strangers are showing up in their library",
+            "description": "There are ongoing issues apparently affecting the iCloud for Windows app, particularly in regards to photo and video storage. According to a number of online complaints from users, iCloud for Windows is corrupting certain videos. There are also reports of a m…",
+            "url": "https://9to5mac.com/2022/11/21/icloud-for-windows-photos-videos-strangers/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/icloud-down.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T21:34:34Z",
+            "content": "There are ongoing issues apparently affecting the iCloud for Windows app, particularly in regards to photo and video storage. According to a number of online complaints from users, iCloud for Windows… [+2121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "Mozilla bundles Firefox Relay with its VPN as a discounted $6.99/mo subscription",
+            "description": "Mozilla has announced an update to its Firefox Relay and VPN security offerings today with the main change making them a more affordable, bundled subscription. For $6.99/month, you can get both the Relay and VPN services from the non-profit to protect your de…",
+            "url": "https://9to5mac.com/2022/11/21/mozilla-bundles-firefox-relay-and-vpn/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/mozilla-firefox-vpn-and-relay.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T14:06:35Z",
+            "content": "Mozilla has announced an update to its Firefox Relay and VPN security offerings today with the main change making them a more affordable, bundled subscription. For $6.99/month, you can get both the R… [+2156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Michael Potuck",
+            "title": "Report: iPhone 14 Pro clocks in as the fastest 5G smartphone in US and UK",
+            "description": "Over the last two months, we’ve seen a few reports that show iPhone 14 Pro and Pro Max as the fastest 5G smartphones. Now Ookla is back with its latest report that solidifies Apple’s spot as the maker of the fastest 5G devices in the US, UK, and more.\n more…\n…",
+            "url": "https://9to5mac.com/2022/11/21/iphone-14-pro-fastest-5g-smartphone/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Screenshot-2022-09-07-at-2.11.22-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T15:23:56Z",
+            "content": "Over the last two months, weve seen a few reports that show iPhone 14 Pro and Pro Max as the fastest 5G smartphones. Now Ookla is back with its latest report that solidifies Apple’s spot as the maker… [+1701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Elon Musk’s Twitter latest: First system breaks; emergency service concerns; Trump back(ish)",
+            "description": "Elon Musk’s Twitter is continuing to generate concern and entertainment in roughly equal measure.\nWith the majority of the site’s engineers having resigned or been fired, former employees had warned that it was only a matter of time before systems started to …",
+            "url": "https://9to5mac.com/2022/11/21/elon-musks-twitter/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/Elon-Musks-Twitter.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T14:49:11Z",
+            "content": "Elon Musk’s Twitter is continuing to generate concern and entertainment in roughly equal measure.\r\nWith the majority of the site’s engineers having resigned or been fired, former employees had warned… [+4635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Laura Rosenberg",
+            "title": "Finally, a formidable response to Amazon-owned Goodreads: Introducing The StoryGraph",
+            "description": "The StoryGraph – an app that lets you track, rate, and review the books you’ve read amongst many, many other things – is something every book lover should have in their app library. Complete with beautiful analytics, personalized recommendations, and a 1.2 mi…",
+            "url": "https://9to5mac.com/2022/11/21/finally-a-formidable-response-to-amazon-owned-goodreads-introducing-the-storygraph/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/11/thestorygraphapp.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-11-21T17:23:35Z",
+            "content": "The StoryGraph an app that lets you track, rate, and review the books youve read amongst many, many other things is something every book lover should have in their app library. Complete with beautifu… [+6829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Genbeta.com"
+            },
+            "author": "Antonio Vallejo",
+            "title": "Uso un gestor de contraseñas y aunque llegué por la seguridad, me quedé por las funciones extra: así me ayuda en mi día a día",
+            "description": "En estos momentos en los que la delincuencia cibernética está en auge, cada vez es más importante contar con diversas técnicas para proteger nuestra información y privacidad online. En este sentido, los gestores de contraseñas han contribuido gratamente, ofre…",
+            "url": "https://www.genbeta.com/a-fondo/uso-gestor-contrasenas-llegue-seguridad-me-quede-funciones-extra-asi-me-ayuda-mi-dia-a-dia",
+            "urlToImage": "https://i.blogs.es/202fde/towfiqu-barbhuiya-fna5pazqhmm-unsplash/840_560.jpg",
+            "publishedAt": "2022-11-21T13:48:21Z",
+            "content": "En estos momentos en los que la delincuencia cibernética está en auge, cada vez es más importante contar con diversas técnicas para proteger nuestra información y privacidad online. En este sentido, … [+5208 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Jonathon Ramsey",
+            "title": "2023 Lexus LS gets Lexus Interface infotainment and more USBs",
+            "description": "Filed under:\n Lexus,Car Buying,Hybrid,Luxury,Sedan\n Continue reading 2023 Lexus LS gets Lexus Interface infotainment and more USBs\n2023 Lexus LS gets Lexus Interface infotainment and more USBs originally appeared on Autoblog on Mon, 21 Nov 2022 09:33:00 EST. …",
+            "url": "https://www.autoblog.com/2022/11/21/2023-lexus-ls-infotainment-usb-price/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/1925x1083+0+101/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/11/19012748/2023_lexus_ls_500_f-sport.jpg",
+            "publishedAt": "2022-11-21T14:33:00Z",
+            "content": "The 2023 Lexus LS is headed to dealers shortly, bringing one very important update as well as a few detail touch-ups. The headliner is the Lexus Interface infotainment system replacing the trackpad-b… [+2160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Insider",
+            "title": "Tesla stock buyback could come in the next year, as Elon Musk teases investor bonanza",
+            "description": "Filed under:\n Earnings/Financials,Tesla\n Continue reading Tesla stock buyback could come in the next year, as Elon Musk teases investor bonanza\nTesla stock buyback could come in the next year, as Elon Musk teases investor bonanza originally appeared on Autobl…",
+            "url": "https://www.autoblog.com/2022/11/21/tesla-stock-buyback-next-year-possible/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/ebb6a24a9b21f947d113b474c3a07d8d",
+            "publishedAt": "2022-11-21T13:15:00Z",
+            "content": "Tesla CEO \r\n Elon Musk. \r\n Carina Johansen/Getty Images\r\nTesla could buy back shares within the next year, said Edward Jones analyst Jeff Windau, marking the electric-vehicle maker's first repurchase… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Insider",
+            "title": "Car companies want to make billions by charging subscription fees for features like heated seats",
+            "description": "Filed under:\n Green,LA Auto Show,Concept Cars,Electric,Hybrid,Off-Road Vehicles,Performance\n Continue reading Car companies want to make billions by charging subscription fees for features like heated seats\nCar companies want to make billions by charging subs…",
+            "url": "https://www.autoblog.com/2022/11/21/car-companies-want-to-charge-monthly-fees-for-features/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/1a1511452c184479b368182a2547db5f",
+            "publishedAt": "2022-11-21T16:54:00Z",
+            "content": "The 2022 \r\n Lexus IS sedan. \r\n Lexus\r\nHow would you feel about paying $5 each month for the ability to lock and unlock your car from a distance through an app? What about a $25-per-month charge for a… [+4313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Christine McKee)",
+            "title": "Amazon's early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro",
+            "description": "Amazon has launched fresh deals on Apple products for the week of Black Friday, with stellar savings on AirTags, Macs, iPads, AirPods and more.Save on all things Apple at Amazon.The e-commerce giant has dozens of markdowns on Apple devices, from $22 AirTags t…",
+            "url": "https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51488-101918-amazon-black-friday-apple-deals-xl.jpg",
+            "publishedAt": "2022-11-21T18:43:48Z",
+            "content": "Save on all things Apple at Amazon.\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAmazon has launched fresh deals on Apple products for the week of Blac… [+2015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "SUV crashes through Apple Store, at least five injured",
+            "description": "An SUV smashed through the glass of Apple Derby Street in Hingham, Massachusetts, on Monday morning, ending up lodged in the brick wall in the back of the store, injuring several.View of the Apple Derby Street store as first responders help. (Source: WCVB5)Ap…",
+            "url": "https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51486-101914-000-lead-Apple-Derby-Street-xl.jpg",
+            "publishedAt": "2022-11-21T17:16:16Z",
+            "content": "View of the Apple Derby Street store as first responders help. (Source: WCVB5)\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAn SUV smashed through the … [+1452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Andrew Orr)",
+            "title": "Mondo is releasing vinyl soundtrack of Apple TV+ show 'Severance'",
+            "description": "Mondo has announced a collectible vinyl soundtrack for \"Severance,\" a thriller TV series on Apple TV+. Praise Kier!The premium Innie EditionThe record has two versions, each offering unique packaging, colors, and merchandise. They will go on sale Wednesday, N…",
+            "url": "https://appleinsider.com/articles/22/11/21/mondo-is-releasing-vinyl-soundtrack-of-apple-tv-show-severance",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51492-101924-vinyl-innie-severance-record-xl.jpg",
+            "publishedAt": "2022-11-21T21:07:48Z",
+            "content": "The premium Innie Edition\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nMondo has announced a collectible vinyl soundtrack for \"Severance,\" a thriller T… [+995 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Corellium's iOS security tool used by rogue's gallery of iPhone hacking",
+            "description": "Despite vehement denials, virtual iOS tool creator Corellium sold its software to spyware and malware distributors, including the makers of the infamous Pegasus.CorelliumCorellium became known for producing a virtualized version of iOS to enable security firm…",
+            "url": "https://appleinsider.com/articles/22/11/21/corelliums-ios-security-tool-used-by-rogues-gallery-of-iphone-hacking",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51483-101902-43703-85023-210810-Corellium-xl-xl.jpg",
+            "publishedAt": "2022-11-21T16:31:36Z",
+            "content": "Corellium\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nDespite vehement denials, virtual iOS tool creator Corellium sold its software to spyware and ma… [+3879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Samsung tapped for RAM in Chinese iPhones",
+            "description": "Samsung will supply RAM for iPhones intended for the Chinese market, instead of local supplier YMTC, as Apple continues to bow to pressure from the US.Apple has not yet bought RAM from the Yangtse Memory Technologies Co (YMTC). Nor is it prohibited from doing…",
+            "url": "https://appleinsider.com/articles/22/11/21/samsung-tapped-for-ram-in-chinese-iphones",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/47716-93226-000-lead-iPhone-xl.jpg",
+            "publishedAt": "2022-11-21T12:38:14Z",
+            "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nSamsung will supply RAM for iPhones intended for the Chinese market, instead of local supplier YMTC, as App… [+1773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "iPhone 15 rumored to have have more rounded corners",
+            "description": "A prolific leaker has said that the iPhone 15 enclosure will get a redesign, and have a new frame with more curved edges.iPhone 15 Pro renderThere have been many early reports of the iPhone 15 range, concentrating on issues to do with cameras, and a greater d…",
+            "url": "https://appleinsider.com/articles/22/11/21/iphone-15-rumored-to-have-have-more-rounded-corners",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51026-100803-000-lead-iPhone-15-xl.jpg",
+            "publishedAt": "2022-11-21T11:52:00Z",
+            "content": "iPhone 15 Pro render\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nA prolific leaker has said that the iPhone 15 enclosure will get a redesign, and have… [+2050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Apple's App Store analytics may be able to identify users",
+            "description": "Apple is allegedly able to identify a user in analytics it collects, according to security researchers, via a unique identifier that can be associated with a user's iCloud account.Privacy. That's iPhone.As a privacy-focused company, Apple's introduction of Ap…",
+            "url": "https://appleinsider.com/articles/22/11/21/apples-app-store-analytics-may-be-able-to-identify-users",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51476-101882-50083-98273-42127-81652-Tracked-Ad-Spot-xl-xl-xl.jpg",
+            "publishedAt": "2022-11-21T12:07:24Z",
+            "content": "Privacy. That's iPhone.\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple is allegedly able to identify a user in analytics it collects, according to … [+2807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Andrew Orr)",
+            "title": "JP Morgan lowers AAPL target to $151 as iPhone 14 Pro lead times increase",
+            "description": "Apple continues to struggle with keeping up with high demand for iPhone 14 Pro models. With lead times increasing, investment analyst JP Morgan has lowered its stock price target.iPhone 14 Pro modelsDemand is so far ahead of iPhone production that by November…",
+            "url": "https://appleinsider.com/articles/22/11/21/jp-morgan-lowers-aapl-target-to-151-as-iphone-14-pro-lead-times-increase",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51484-101900-iPhone-14-Pro---Pro-Max-xl.jpg",
+            "publishedAt": "2022-11-21T16:44:04Z",
+            "content": "iPhone 14 Pro models\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple continues to struggle with keeping up with high demand for iPhone 14 Pro models… [+2044 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (AppleInsider Staff)",
+            "title": "Black Friday deals: get a 16-inch MacBook Pro for as low as $1,690",
+            "description": "Apple's 16-inch MacBook Pro is up to $709 off heading into Black Friday, with substantial markdowns on both Apple Silicon and Intel models.Get the 2019 16-inch MacBook Pro for $1,690Save $709 instantly Read more...",
+            "url": "https://appleinsider.com/articles/22/11/21/black-friday-deals-get-a-16-inch-macbook-pro-for-as-low-as-1690",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51485-101907-2019-16MBP-xl.jpg",
+            "publishedAt": "2022-11-21T17:07:17Z",
+            "content": "Get the 2019 16-inch MacBook Pro for $1,690\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple's 16-inch MacBook Pro is up to $709 off heading into Bla… [+1340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (AppleInsider Staff)",
+            "title": "Amazon selling Apple's M1 MacBook Air for $799",
+            "description": "Amazon has dropped the price of the 2020 M1 MacBook Air with 8GB RAM, 256GB storage, to $799, making it the lowest-cost Apple Silicon MacBook.The M1 MacBook Air has seen a 20% price drop from Amazon before, but it is always for limited periods — and sometimes…",
+            "url": "https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51480-101888-m1-macbook-air-2020-799-amazon4-xl.jpg",
+            "publishedAt": "2022-11-21T13:50:36Z",
+            "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAmazon has dropped the price of the 2020 M1 MacBook Air with 8GB RAM, 256GB storage, to $799, making it the… [+1216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (AppleInsider Staff)",
+            "title": "Black Friday sale: run Windows on your Mac & save 25% on Parallels Desktop 18",
+            "description": "If you need to run Windows apps on your Apple Silicon Mac, take advantage of 25% off Parallels Desktop 18 with this Black Friday deal.Not everyone wants to have both a Windows desktop and a Mac on the same desk. It takes too much space to be practical, and th…",
+            "url": "https://appleinsider.com/articles/22/11/21/black-friday-sale-run-windows-on-your-mac-save-25-on-parallels-desktop-18",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51491-101923-parallels-desktop-18-xl.jpg",
+            "publishedAt": "2022-11-21T21:14:47Z",
+            "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nIf you need to run Windows apps on your Apple Silicon Mac, take advantage of 25% off Parallels Desktop 18 w… [+2374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "iCloud for Windows users see corrupted iPhone videos with mystery images",
+            "description": "Users of iCloud for Windows are having problems viewing videos and images, with corrupt footage and images that may belong to other accounts appearing on their PCs.iCloudThe iCloud for Windows tool makes it easy for Windows users to synchronize their photos, …",
+            "url": "https://appleinsider.com/articles/22/11/21/icloud-for-windows-users-see-corrupted-iphone-videos-with-mystery-images",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51494-101926-50904-100512-IMG_2068-xl-xl.jpg",
+            "publishedAt": "2022-11-21T21:22:29Z",
+            "content": "iCloud\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nUsers of iCloud for Windows are having problems viewing videos and images, with corrupt footage and… [+1280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Andrew O'Hara)",
+            "title": "Aqara pet feeder, HOOBS Pro hub, and other smart home news",
+            "description": "On the latest episode of the Homekit Insider podcast, your hosts discuss the international launch of the Aqara C1 pet feeder, the HOOBS Pro hub, and much more.HomeKit InsiderAfter launching roughly a year ago in China, the Aqara C1 pet feeder is available int…",
+            "url": "https://appleinsider.com/articles/22/11/21/aqara-pet-feeder-hoobs-pro-hub-and-other-smart-home-news",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/46889-91403-HKI-Header-xl.jpg",
+            "publishedAt": "2022-11-21T16:10:51Z",
+            "content": "HomeKit Insider\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nOn the latest episode of the Homekit Insider podcast, your hosts discuss the international… [+1474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (AppleInsider Staff)",
+            "title": "Countdown to Black Friday deals Nov. 21: $199 AirPods Pro Gen 2, 23% off MagSafe Charger, $250 off Bose Soundbar 700, more",
+            "description": "Monday's best deals include 25% off a Lifetime Plex Pass, up to 30% off Peak Design products, $32 off Sonos Roam SL, and much more.Best deals for November 21AppleInsider checks online stores daily to uncover discounts and offers on hardware and other products…",
+            "url": "https://appleinsider.com/articles/22/11/21/countdown-to-black-friday-deals-nov-21-199-airpods-pro-gen-2-23-off-magsafe-charger-250-off-bose-soundbar-700-more",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51475-101883-deals-nov-21-xl.jpg",
+            "publishedAt": "2022-11-21T13:32:40Z",
+            "content": "Best deals for November 21\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nMonday's best deals include 25% off a Lifetime Plex Pass, up to 30% off Peak De… [+1423 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Chip Loder)",
+            "title": "How to use Homebrew on Mac to install third-party tools & apps",
+            "description": "Homebrew is a macOS package manager that lets users install and manage UNIX tools and 3rd party software. Here's how to get started.Unlike most UNIX/Linux-based systems, macOS doesn't provide a standard mechanism for installing 3rd party command-line tools be…",
+            "url": "https://appleinsider.com/inside/macos/tips/how-to-use-homebrew-on-mac-to-install-third-party-tools-apps",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51455-101833-lede-xl.jpg",
+            "publishedAt": "2022-11-21T19:43:59Z",
+            "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nHomebrew is a macOS package manager that lets users install and manage UNIX tools and 3rd party software. H… [+9572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "How to watch Amazon Prime Video on Mac",
+            "description": "Amazon Prime Video is the online retail giant's streaming service, offering a wide variety of content. Here's how to watch it all on your Mac.Amazon Prime VideoOne of the major video streaming services, Amazon Prime Video has been around for quite a few years…",
+            "url": "https://appleinsider.com/inside/mac/tips/how-to-watch-amazon-prime-video-on-mac",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/51463-101844-prime-video-header-xl.jpg",
+            "publishedAt": "2022-11-21T11:28:58Z",
+            "content": "Amazon Prime Video\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAmazon Prime Video is the online retail giant's streaming service, offering a wide vari… [+5190 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": "Manuel Ramírez",
+            "title": "Hay una contraseña cada vez más usada por muchos, es de una marca y no es el '12345\"",
+            "description": "En las listas de contraseñas más usadas a veces se cuelan algunas de las más curiosas como \"hola\" o ese \"tequiero\", pero un estudio ahora ha sacado a la luz que hay una marca que está siendo utilizada por muchos usuarios.",
+            "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20221121/contrasena-vez-usada-marca-no/720178396_0.html",
+            "urlToImage": "https://s1.eestatic.com/2022/11/21/elandroidelibre/noticias-y-novedades/720188944_228890651_600x315.jpg",
+            "publishedAt": "2022-11-21T19:12:42Z",
+            "content": "Mientras Google trabaja para que ni tengamos que usar una contraseña para iniciar sesión en un sitio web, ahora sabemos que hay una marca vinculada a uno de los gigantes tecnológicos que cada vez est… [+1943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": "Manuel Ramírez",
+            "title": "Estas son las 15 mayores compañías de streaming del mundo con una clara victoriosa",
+            "description": "Los servicios de streaming son de un gran valor y están sirviendo para llevar al hogar incontables horas de entretenimiento a través de todo tipo de contenido multimedia como son series, películas, documentales, música e incluso juegos.",
+            "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20221121/mayores-companias-streaming-mundo-clara-victoriosa/720178235_0.html",
+            "urlToImage": "https://s1.eestatic.com/2022/11/21/elandroidelibre/noticias-y-novedades/720188595_228884603_600x315.jpg",
+            "publishedAt": "2022-11-21T16:31:00Z",
+            "content": "Estos servicios, aparte de ofrecer un periodo gratuito para así probar sus virtudes y bondades, están compitiendo entre los unos y los otros para alzarse como el servicio de mayor cantidad de usuario… [+2668 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "メディアジーンメディアコマース",
+            "title": "【Amazonタイムセール中！】今がチャンス！AppleのAirTagが18%オフやソニーの液晶テレビが36,500円など",
+            "description": "Amazon（アマゾン）で毎日開催されているタイムセール。本日2022年11月21日は、AppleのAirTagが18%オフやソニーの液晶テレビが29%オフなど、今すぐ欲しい人気のアイテムがお得に多数登場しています。",
+            "url": "https://www.gizmodo.jp/2022/11/amazon-timesale-2022-1121-1.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2022/11/21/GZ1121.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2022-11-21T09:45:00Z",
+            "content": "Amazon20221121AppleAirTag18%36,500\r\n2022112117\r\n5,000\r\nAppleAir Tag\r\niPhoneAppleAir Tag18%3,896\r\n1\r\nWi-Fi TP-LinkLAN\r\nWi-FiLANWi-Fi\r\nWi-FiHD\r\n3\r\nSONY43V29%Dolby Atmos2022\r\nSONY202229Google TVTM\r\n4K\r\n… [+130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Gael Fashingbauer Cooper",
+            "title": "10 Best Thanksgiving Movies and Where to Stream Them - CNET",
+            "description": "There's not a turkey in the batch.",
+            "url": "https://www.cnet.com/culture/entertainment/10-best-thanksgiving-movies-and-where-to-stream-them/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f2f0f19e7d5b170bffb9df3e4eb052d09d031887/hub/2016/12/06/6310e83d-2aed-4e11-a73d-f6bbf6acf765/planes-trains-and-automobiles-2.png?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-21T19:51:00Z",
+            "content": "Movie fans can easily list their favorite Christmas films, rom-coms, sports movies ... but Thanksgiving movies? It's not exactly a huge genre. But maybe it should be. People who celebrate the holiday… [+4734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Sareena Dayaram",
+            "title": "What's in Your iPhone? The Planet Desperately Needs the Metals Inside - CNET",
+            "description": "Your iPhone is filled with precious metals and elements that could run out in the next century -- and that could jeopardize global climate goals.",
+            "url": "https://www.cnet.com/tech/mobile/whats-in-your-iphone-the-planet-desperately-needs-the-metals-inside/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/c13e3f34fbcf7e5765ef2bdd136f6bad93604c5d/hub/2014/04/24/45dda732-9069-40c1-bb8c-6c32de37083e/inside-iphone-5s-guts-battery-7727.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-21T13:00:06Z",
+            "content": "If you're reading this article on a phone (or a tablet or laptop), between your hands you're clutching important pieces of the Earth's crust, which have been dug up from mines around the world. \r\nThe… [+8465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jared DiPane",
+            "title": "11 Black Friday Deals We Don't Expect to Last All Week - CNET",
+            "description": "As the deals continue to get better, the risk of them selling out increases. Don't miss out, start your shopping now.",
+            "url": "https://www.cnet.com/deals/black-friday-deals-we-dont-expect-to-last-all-week/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/9cf831621f91371cc798f1fab1fb64930a7cdb00/hub/2022/11/17/ba7a913e-03fa-4fd2-84cd-1b0971cec812/black-friday-deals-yellow-stars-lines.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2022-11-21T14:54:00Z",
+            "content": "Black Friday is just days away, which means that several of Black Friday's best deals are available right now for you to shop. While it's great to see some of the deals happening early, that also doe… [+3833 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uncrate.com"
+            },
+            "author": "Uncrate",
+            "title": "Claustrum Persona Apple Watch Bracelet",
+            "description": "Ginza, Tokyo-based Claustrum specializes in minimalist metal objects. For its latest creation, they've chosen to give the Apple Watch a new identity. Dubbed Persona, the kit includes a high-strength stainless steel case for the Watch itself, paired with a mat…",
+            "url": "https://uncrate.com/claustrum-persona-apple-watch-bracelet/",
+            "urlToImage": "https://uncrate.com/p/2022/11/claustrum-persona-apple-watch.jpg",
+            "publishedAt": "2022-11-21T15:00:05Z",
+            "content": "Skincare routines need to be simple and effective. Lumin sticks to those principles with its Anti-Fatigue Essentials Bundle. Assembling the Charcoal Cleanser, Dark Circle Defense, Ultra-Hydrating Moi… [+457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Tristan",
+            "title": "iPhone 15 Pro : Apple prévoit (déjà) des exclusivités",
+            "description": "Apple travaille sur l’iPhone 15 Pro et de nombreuses nouveautés commencent à se montrer. Puce, boutons et USB-C sont au cœur des débats. \niPhone 15 Pro : Apple prévoit (déjà) des exclusivités",
+            "url": "https://www.journaldugeek.com/2022/11/21/iphone-15-pro-apple-prevoit-deja-des-exclusivites/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/10/apple-iphone-14-pro-ecran-test.jpg",
+            "publishedAt": "2022-11-21T09:30:36Z",
+            "content": "Apple travaille sur liPhone 15 Pro et de nombreuses nouveautés commencent à se montrer. Puce, boutons et USB-C sont au cur des débats.La génération diPhone 14 a marqué une cassure dans lhistoire dApp… [+2577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Journal du Geek",
+            "title": "Pour un tarif dingue chez Amazon, cet iPhone 13 ridiculise les iPhone 14",
+            "description": "Amazon ne fait qu'une bouchée des iPhone 13. Alors que les différentes techniques sont minimes versus les nouveaux iPhone 14, la différence de prix est pourtant immense. Le rapport qualité prix penche sans aucun doute en la faveur de la version 13.\nPour un ta…",
+            "url": "https://www.journaldugeek.com/2022/11/21/pour-un-tarif-dingue-sur-amazon-cet-iphone-13-ridiculise-les-iphone-14/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/12/iphone-13-apple.jpeg",
+            "publishedAt": "2022-11-21T07:10:00Z",
+            "content": "Amazon ne fait qu'une bouchée des iPhone 13. Alors que les différentes techniques sont minimes versus les nouveaux iPhone 14, la différence de prix est pourtant immense. Le rapport qualité prix pench… [+5985 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Olivier",
+            "title": "LumaFusion, la fameuse app de montage vidéo, maintenant sur Android et ChromeOS",
+            "description": "Il existe de nombreuses applications de montage vidéo sur Android, un peu moins pour ChromeOS. Signe que ces deux plateformes intéressent de plus en plus d'utilisateurs pro, LumaFusion y est désormais proposé.\nLumaFusion, la fameuse app de montage vidéo, main…",
+            "url": "https://www.journaldugeek.com/2022/11/21/lumafusion-la-fameuse-app-dedition-video-maintenant-sur-android-et-chromeos/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/11/sans-titre-5-52.png",
+            "publishedAt": "2022-11-21T07:30:00Z",
+            "content": "Il existe de nombreuses applications de montage vidéo sur Android, un peu moins pour ChromeOS. Signe que ces deux plateformes intéressent de plus en plus d'utilisateurs pro, LumaFusion y est désormai… [+1776 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Partenaire",
+            "title": "Voici notre sélection des meilleures offres Cdiscount pendant le Black Friday",
+            "description": "Pour le Black Friday, Cdiscount met les petits plats dans les grands et fracasse les prix de la quasi-totalité de ses produits. Zoom sur les meilleures offres à saisir avant le 28 novembre. \nVoici notre sélection des meilleures offres Cdiscount pendant le Bla…",
+            "url": "https://www.journaldugeek.com/2022/11/21/voici-notre-selection-des-meilleures-offres-cdiscount-pendant-le-black-friday/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/11/black-friday-cdiscount.jpg",
+            "publishedAt": "2022-11-21T14:46:11Z",
+            "content": "Pour le Black Friday, Cdiscount met les petits plats dans les grands et fracasse les prix de la quasi-totalité de ses produits. Zoom sur les meilleures offres à saisir avant le 28 novembre.Que vous v… [+3901 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Gregori Pujol",
+            "title": "Indispensable, le chargeur 65W Nano II de Anker est à un prix jamais vu (-26%)",
+            "description": "Le chargeur Nano II 65W de Anker est en promotion chez Amazon, un accessoire idéal pour les vacances et tout vos déplacements.\nIndispensable, le chargeur 65W Nano II de Anker est à un prix jamais vu (-26%)",
+            "url": "https://www.journaldugeek.com/bon-plan/indispensable-le-chargeur-65w-nano-ii-de-anker-est-a-un-prix-jamais-vu-26/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/04/ankern2.jpg",
+            "publishedAt": "2022-11-21T11:45:39Z",
+            "content": "Le chargeur Nano II 65W de Anker est en promotion chez Amazon, un accessoire idéal pour les vacances et tout vos déplacements.Le Nano II de Anker est un chargeur USB Type-C qui prend moins de place q… [+2120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Sebastian Danila",
+            "title": "Dyson V8 : au Black Friday, le prix de ce best-seller s’effondre comme jamais ",
+            "description": "Vous rêvez d'un aspirateur balai Dyson ? En ce moment, dans le cadre des promotions du Black Friday, l'excellent Dyson V8 voit son prix s'effondrer comme jamais auparavant. Stock limité, premiers arrivés, premiers servis ! \nDyson V8 : au Black Friday, le prix…",
+            "url": "https://www.journaldugeek.com/bon-plan/dyson-v8-au-black-friday-le-prix-de-ce-best-seller-seffondre-comme-jamais/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/06/dyson-v8.jpg",
+            "publishedAt": "2022-11-21T11:51:06Z",
+            "content": "Vous rêvez d'un aspirateur balai Dyson ? En ce moment, dans le cadre des promotions du Black Friday, l'excellent Dyson V8 voit son prix s'effondrer comme jamais auparavant. Stock limité, premiers arr… [+6899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Amandine Jonniaux",
+            "title": "Test de la Fitbit Sense 2 : à côté de ses pompes",
+            "description": "En attendant d'être totalement intégrée à Google, Fitbit poursuit son chemin avec la Sense 2, une montre connectée polyvalente dédiée à la santé connectée.\nTest de la Fitbit Sense 2 : à côté de ses pompes",
+            "url": "https://www.journaldugeek.com/test/test-de-la-fitbit-sense-2-a-cote-de-ses-pompes/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/11/template-jdg-8.jpg",
+            "publishedAt": "2022-11-21T17:00:21Z",
+            "content": "En attendant d'être totalement intégrée à Google, Fitbit poursuit son chemin avec la Sense 2, une montre connectée polyvalente dédiée à la santé connectée.Deux ans déjà que Fitbit a lancé sa Sense, u… [+7801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Core77.com"
+            },
+            "author": "Core Jr",
+            "title": "Let the 2022 Core77 Ultimate Gift Guide Games Begin!",
+            "description": "For us, a countdown to the holidays isn't complete without the launch of our annual Core77 Ultimate Gift Guide Competition. It's not only one of the best resources on the web for finding cool gifts for your loved ones, it's also user-controlled and a great ch…",
+            "url": "https://www.core77.com/posts/117524/Let-the-2022-Core77-Ultimate-Gift-Guide-Games-Begin",
+            "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1321540_lead_400_117524_.jpg",
+            "publishedAt": "2022-11-21T17:00:00Z",
+            "content": "For us, a countdown to the holidays isn't complete without the launch of our annual Core77 Ultimate Gift Guide Competition. It's not only one of the best resources on the web for finding cool gifts f… [+2374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Dylan Martin",
+            "title": "TSMC confirms 3nm fab in Arizona to make neighbor Intel sweat a little more",
+            "description": "Next-gen chip plant could appeal to customers for supply chain, national security reasons\nAnalysis TSMC founder Morris Chang has confirmed the Taiwanese foundry giant's plan to build a 3nm chip manufacturing plant in Arizona alongside its 5nm fab that is slat…",
+            "url": "https://www.theregister.com/2022/11/21/tsmc_3nm_fab_arizona/",
+            "urlToImage": "https://regmedia.co.uk/2021/05/04/tsmc.jpg",
+            "publishedAt": "2022-11-21T18:50:33Z",
+            "content": "Analysis TSMC founder Morris Chang has confirmed the Taiwanese foundry giant's plan to build a 3nm chip manufacturing plant in Arizona alongside its 5nm fab that is slated to open in 2024.  \r\nChang s… [+3446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Jeff Burt",
+            "title": "Microsoft's attempts to harden Kerberos authentication broke it on Windows Servers",
+            "description": "Emergency out-of-band updates to the rescue\nMicrosoft is rolling out fixes for problems with the Kerberos network authentication protocol on Windows Server after it was broken by November Patch Tuesday updates.…<!--#include virtual='/data_centre/_whitepaper_t…",
+            "url": "https://www.theregister.com/2022/11/21/microsoft_kerberos_fix_windows/",
+            "urlToImage": "https://regmedia.co.uk/2015/05/04/windows_server.jpg",
+            "publishedAt": "2022-11-21T23:00:08Z",
+            "content": "Microsoft is rolling out fixes for problems with the Kerberos network authentication protocol on Windows Server after it was broken by November Patch Tuesday updates.\r\nAs we reported last week, updat… [+3095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Miguel López",
+            "title": "Apple Music aparece instalado en un Tesla Model S: vuelven los rumores de una integración oficial",
+            "description": "Hoy es un buen día para aquellos que tengáis un Telsa (o aspiréis seriamente a tener uno) y uséis dispositivos de Apple. Un Tesla Model S que estaba expuesto en un museo con motivo de un evento especial ha mostrado en pantalla una aplicación dedicada de Apple…",
+            "url": "https://www.applesfera.com/servicios-apple/apple-music-aparece-instalado-tesla-model-s-vuelven-rumores-integracion-oficial",
+            "urlToImage": "https://i.blogs.es/79a9bb/tesla-apple-music/840_560.jpeg",
+            "publishedAt": "2022-11-21T11:05:10Z",
+            "content": "Hoy es un buen día para aquellos que tengáis un Telsa (o aspiréis seriamente a tener uno) y uséis dispositivos de Apple. Un Tesla Model S que estaba expuesto en un museo con motivo de un evento espec… [+1946 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Miguel López",
+            "title": "Tu a Corea y yo a Arizona: los proveedores de Apple mueven sus producciones para esquivar problemas",
+            "description": "Nada como ver por dónde van las restricciones comerciales que aplica los Estados Unidos para comprender todas las mudanzas que los proveedores de Apple hacen (decidido por ellas mismas o desde Cupertino). En apenas unas horas de tiempo hemos sabido de dos not…",
+            "url": "https://www.applesfera.com/apple-1/tu-a-corea-yo-a-arizona-proveedores-apple-mueven-sus-producciones-para-esquivar-problemas",
+            "urlToImage": "https://i.blogs.es/ca4cde/tsmc-arizona-apple/840_560.jpeg",
+            "publishedAt": "2022-11-21T18:46:17Z",
+            "content": "Nada como ver por dónde van las restricciones comerciales que aplica los Estados Unidos para comprender todas las mudanzas que los proveedores de Apple hacen (decidido por ellas mismas o desde Cupert… [+1723 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "Cinco estaciones de carga para iPhone, Apple Watch y AirPods de oferta en el Black Friday",
+            "description": "Cada vez usamos más dispositivos con batería que requieren recargarla cada poco tiempo, y eso puede convertirse en un lío de cables y cargadores. Si tienes un iPhone, Apple Watch y auriculares AirPods, puede que una de estas cinco estaciones de carga rebajada…",
+            "url": "https://www.applesfera.com/seleccion/cinco-estaciones-carga-para-iphone-apple-watch-airpods-oferta-black-friday",
+            "urlToImage": "https://i.blogs.es/f71743/estaciones-de-carga/840_560.jpg",
+            "publishedAt": "2022-11-21T07:00:37Z",
+            "content": "Cada vez usamos más dispositivos con batería que requieren recargarla cada poco tiempo, y eso puede convertirse en un lío de cables y cargadores. Si tienes un iPhone, Apple Watch y auriculares AirPod… [+3670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Miguel López",
+            "title": "Estas son las diferencias entre Matter y Thread, los dos estándares que dominarán la domótica y que podremos integrar con el iPhone",
+            "description": "Matter y Thread. Son las dos palabras mágicas de la domótica últimamente, y Apple ha adoptado ambas plataformas para que HomeKit no se vea demasiado aislado respecto a los accesorios de hogar de la competencia, y lo ha hecho de forma más notoria con el modelo…",
+            "url": "https://www.applesfera.com/accesorios/estas-diferencias-matter-thread-dos-estandares-que-dominaran-domotica-que-podremos-integrar-iphone",
+            "urlToImage": "https://i.blogs.es/483bbe/matter-thread/840_560.jpeg",
+            "publishedAt": "2022-11-21T17:31:11Z",
+            "content": "Matter y Thread. Son las dos palabras mágicas de la domótica últimamente, y Apple ha adoptado ambas plataformas para que HomeKit no se vea demasiado aislado respecto a los accesorios de hogar de la c… [+2040 chars]"
+        }
+    ]
+}
